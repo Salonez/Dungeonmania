@@ -1,0 +1,20 @@
+{
+    "ally_attack": 3,
+    "ally_defence": 3,
+    "bomb_radius": 1,
+    "bow_durability": 2,
+    "bribe_amount": 1,
+    "bribe_radius": 10,
+    "invincibility_potion_duration": 1,
+    "invisibility_potion_duration": 1,
+    "mercenary_attack": 5,
+    "mercenary_health": 5,
+    "player_attack": 1,
+    "player_health": 1,
+    "shield_defence": 1,
+    "shield_durability": 2,
+    "assassin_attack": 100,
+    "assassin_bribe_amount": 1,
+    "assassin_bribe_fail_rate": 0,
+    "assassin_health": 100
+}

@@ -1,0 +1,15 @@
+{
+    "entities": [
+      {
+        "x": 2,
+        "y": 1,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "wire"
+      }
+    ],
+    "goal-condition": {"goal":"exit"}
+  }
